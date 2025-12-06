@@ -11,4 +11,5 @@ I’m always seeking opportunities to **collaborate on meaningful projects** and
 
 - 📫 **Contact Me:** [Email](mailto:doudasdki@gmail.com) | [LinkedIn](https://www.linkedin.com/in/houda-seddiki)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoda-418&show_icons=true&theme=radical)](https://github.com/hoda-418)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoda-418&show_icons=true&hide=contribs,prs&theme=radical)
+
